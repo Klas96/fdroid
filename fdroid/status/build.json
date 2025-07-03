@@ -1,0 +1,1 @@
+{"/etc/issue.net":"Ubuntu 22.04.5 LTS","commandLine":["/home/klas/.local/bin/fdroid build","com.keymatch.app","--verbose"],"endTimestamp":1751540023931,"failedBuilds":[["com.keymatch.app",106]],"startTimestamp":1751536423000,"subcommand":"build","successfulBuildIds":[]}
