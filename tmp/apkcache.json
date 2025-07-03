@@ -82,7 +82,7 @@
     "added": 1751556441.0
   },
   "com.keymatch.app_108.apk": {
-    "hash": "15bea551f3921a90aa23e3e80ebdb72ef24d195c861c3cf9f20a03c8c5ebf12a",
+    "hash": "07de079a20a6c608c36a099d37bc9d5e80baa5f68c5e194cc712eb566797ec54",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -144,9 +144,9 @@
     "icons": {},
     "antiFeatures": {},
     "packageName": "com.keymatch.app",
-    "versionCode": 108,
+    "versionCode": 109,
     "name": "KeyMatch",
-    "versionName": "1.0.4",
+    "versionName": "1.0.5",
     "minSdkVersion": 21,
     "targetSdkVersion": 34,
     "nativecode": [
@@ -157,7 +157,7 @@
     ],
     "sig": "05130af1cfda81d014a44e39845bf4ff",
     "signer": "76a456011df3378790168e8079603636e0b6e3f5ba0fe7a4e5f4ad48da15e02c",
-    "size": 26310728,
+    "size": 26314998,
     "apkName": "com.keymatch.app_108.apk",
     "added": 1751560767.0
   }
