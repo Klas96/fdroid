@@ -1,0 +1,176 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "com.keymatch.app_106.apk": {
+    "hash": "f526adc39c7f27bb5051477f53c7186f901810f54026b4fec15446f602220f01",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_IMAGES",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_VIDEO",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "com.keymatch.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.keymatch.app",
+    "versionCode": 106,
+    "name": "KeyMatch",
+    "versionName": "1.0.2",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2f3d8ff2d8dcd520b86a17c617ce8e1f",
+    "signer": "33c4f6c0605f7689b0b2a5ab0d4c15743cefeee4012fa6349f1bdba47a24bf57",
+    "size": 28794018,
+    "apkName": "com.keymatch.app_106.apk",
+    "added": 1751540130.0
+  },
+  "com.keymatch.app_107.apk": {
+    "hash": "23be1e2ab3e1167a449bbe2759e459721d53da2172208991cb9766f2de3ccdeb",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_IMAGES",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_VIDEO",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "com.keymatch.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.keymatch.app",
+    "versionCode": 106,
+    "name": "KeyMatch",
+    "versionName": "1.0.2",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2f3d8ff2d8dcd520b86a17c617ce8e1f",
+    "signer": "33c4f6c0605f7689b0b2a5ab0d4c15743cefeee4012fa6349f1bdba47a24bf57",
+    "size": 26307881,
+    "apkName": "com.keymatch.app_107.apk",
+    "added": 1751552584.910933
+  },
+  "README.md": {
+    "name": "README",
+    "apkName": "README.md",
+    "hash": "9839e574894bd34b684f742a68195c804784de8bec6e1f5652d332074d11ad78",
+    "hashType": "sha256",
+    "ipfsCIDv1": null,
+    "versionCode": 0,
+    "versionName": "9839e57",
+    "packageName": "9839e574894bd34b684f742a68195c804784de8bec6e1f5652d332074d11ad78",
+    "size": 885,
+    "added": 1751552584.911539
+  }
+}

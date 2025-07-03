@@ -1,1 +1,18 @@
-{"/etc/issue.net":"Ubuntu 22.04.5 LTS","antiFeatures":{},"apksigner":"/usr/bin/apksigner","archivePolicy0":[],"commandLine":["/home/klas/.local/bin/fdroid update"],"disabled":[],"endTimestamp":1751543228892,"failedBuilds":{},"jarsigner":"/usr/lib/jvm/java-17-openjdk-amd64/bin/jarsigner","keytool":"/usr/lib/jvm/java-17-openjdk-amd64/bin/keytool","needsUpdate":[],"noPackages":[],"noUpdateCheck":[],"stages":{"delete_disabled_builds":1751543226549,"index.make repo":1751543226551,"prepare_apps repo":1751543226550,"process_apks":1751543226549,"read_added_date_from_all_apks":1751543226550,"remove_apks":1751543226550,"scan_repo_files":1751543226549},"startTimestamp":1751539626000,"subcommand":"update"}
+{
+  "/etc/issue.net": "Ubuntu 22.04.5 LTS",
+  "commandLine": [
+    "/home/klas/.local/bin/fdroid update",
+    "-c"
+  ],
+  "stages": {
+    "delete_disabled_builds": 1751552583146,
+    "index.make repo": 1751552584917,
+    "prepare_apps repo": 1751552584916,
+    "process_apks": 1751552583146,
+    "read_added_date_from_all_apks": 1751552584916,
+    "remove_apks": 1751552584911,
+    "scan_repo_files": 1751552584911
+  },
+  "startTimestamp": 1751548983000,
+  "subcommand": "update"
+}

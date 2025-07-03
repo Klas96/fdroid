@@ -66,6 +66,32 @@ Builds:
       - assets/images
     buildjni:
       - ~/.gradle/caches/transforms-3/*/transformed/flutter_embedding_release
+  - versionName: '1.0.2'
+    versionCode: 106
+    commit: v1.0.2
+    subdir: dating_app
+    gradle:
+      - yes
+    preassemble:
+      - echo "Building for F-Droid"
+    output: build/app/outputs/flutter-apk/app-release.apk
+    srclibs:
+      - flutter@3.16.9
+    rm:
+      - nodejs-backend
+      - docs
+      - scripts
+      - test
+      - coverage
+      - __tests__
+      - ios
+      - metadata
+      - theme
+      - collections
+      - assets/fonts
+      - assets/images
+    buildjni:
+      - ~/.gradle/caches/transforms-3/*/transformed/flutter_embedding_release
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
