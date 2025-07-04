@@ -1,10 +1,10 @@
 # KeyMatch F-Droid Repository
 
-This is the official F-Droid repository for **KeyMatch** - a privacy-focused dating app for meaningful connections.
+This is the official F-Droid repository for **KeyMatch** - a match making app for connections through intelligent matching and detailed profiles.
 
 ## 📱 About KeyMatch
 
-KeyMatch is a dating app focused on meaningful connections through intelligent matching and detailed profiles.
+KeyMatch is a match making app focused on connections through intelligent matching and detailed profiles.
 
 ### Features:
 - Create detailed profiles with multiple photos
@@ -24,7 +24,7 @@ KeyMatch is a dating app focused on meaningful connections through intelligent m
 ## 🔗 Repository Information
 
 - **Repository URL**: `https://klas96.github.io/keymatch-fdroid/fdroid/repo`
-- **Latest Version**: 1.0.4 (108)
+- **Latest Version**: 1.1.0 (110)
 - **License**: MIT
 - **Source Code**: https://github.com/Klas96/key-match
 - **Website**: https://keymatch.app
@@ -42,7 +42,7 @@ KeyMatch is a dating app focused on meaningful connections through intelligent m
 
 ### Method 2: Direct APK Download
 You can also download the APK directly:
-- **Latest Version**: [com.keymatch.app_108.apk](https://klas96.github.io/keymatch-fdroid/fdroid/repo/com.keymatch.app_108.apk)
+- **Latest Version**: [com.keymatch.app_110.apk](https://klas96.github.io/keymatch-fdroid/fdroid/repo/com.keymatch.app_110.apk)
 
 ## 🔄 Updates
 
