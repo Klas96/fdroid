@@ -160,5 +160,165 @@
     "size": 26314998,
     "apkName": "com.keymatch.app_108.apk",
     "added": 1751560767.0
+  },
+  "com.keymatch.app_110.apk": {
+    "hash": "07de079a20a6c608c36a099d37bc9d5e80baa5f68c5e194cc712eb566797ec54",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_IMAGES",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_VIDEO",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "com.keymatch.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.keymatch.app",
+    "versionCode": 109,
+    "name": "KeyMatch",
+    "versionName": "1.0.5",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "05130af1cfda81d014a44e39845bf4ff",
+    "signer": "76a456011df3378790168e8079603636e0b6e3f5ba0fe7a4e5f4ad48da15e02c",
+    "size": 26314998,
+    "apkName": "com.keymatch.app_110.apk",
+    "added": 1751615656.0
+  },
+  "com.keymatch.app_112.apk": {
+    "hash": "8528482fcfb7192a2695be5c2486316e747b1e72d3d60fea6bd8694af10c172d",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_IMAGES",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_VIDEO",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "com.keymatch.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.keymatch.app",
+    "versionCode": 106,
+    "name": "KeyMatch",
+    "versionName": "1.0.2",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2f3d8ff2d8dcd520b86a17c617ce8e1f",
+    "signer": "33c4f6c0605f7689b0b2a5ab0d4c15743cefeee4012fa6349f1bdba47a24bf57",
+    "size": 28780065,
+    "apkName": "com.keymatch.app_112.apk",
+    "added": 1751745820.752778
   }
 }
