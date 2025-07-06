@@ -47,8 +47,15 @@ Builds:
     output: build/app/outputs/flutter-apk/app-release.apk
     srclibs:
       - flutter@3.16.9
+  - versionName: '1.3.0'
+    versionCode: 112
+    commit: v1.3.0
+    subdir: dating_app
+    output: build/app/outputs/flutter-apk/app-release.apk
+    srclibs:
+      - flutter@3.16.9
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: 1.0.5
-CurrentVersionCode: 109 
+CurrentVersion: 1.3.0
+CurrentVersionCode: 112 
