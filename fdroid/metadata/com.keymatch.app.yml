@@ -1,9 +1,68 @@
-AuthorName: ''
 Categories:
-- fdroid
-CurrentVersionCode: 2147483647
-IssueTracker: ''
-Name: KeyMatch
-SourceCode: ''
-Summary: ''
-WebSite: ''
+  - Dating
+  - Social
+  - Internet
+
+License: MIT
+
+WebSite: https://keymatch.app
+
+SourceCode: https://github.com/Klas96/key-match
+
+IssueTracker: https://github.com/Klas96/key-match/issues
+
+Donate: https://liberapay.com/keymatch
+
+Changelog: https://github.com/Klas96/key-match/releases
+
+AutoName: KeyMatch
+
+Description: |
+  KeyMatch is a dating app focused on meaningful connections through intelligent matching and detailed profiles.
+  
+  Features:
+  • Create detailed profiles with multiple photos
+  • Intelligent matching algorithm
+  • Real-time messaging
+  • Location-based matching
+  • Premium features for enhanced experience
+  
+  Premium Features (available through Stripe or Bitcoin payments):
+  • Unlimited likes
+  • Advanced filters
+  • Priority support
+  • Profile boost
+  
+  Privacy-focused with no tracking or data selling.
+
+RepoType: git
+
+Repo: https://github.com/Klas96/key-match.git
+
+Builds:
+  - versionName: '1.5.1'
+    versionCode: 118
+    commit: v1.5.1
+    subdir: dating_app
+    output: build/app/outputs/flutter-apk/app-release.apk
+    srclibs:
+      - flutter@3.16.9
+  - versionName: '1.5.1'
+    versionCode: 118
+    commit: v1.5.1
+    subdir: dating_app
+    output: build/app/outputs/flutter-apk/app-release.apk
+    srclibs:
+      - flutter@3.16.9
+  - versionName: '1.5.1'
+    versionCode: 118
+    commit: v1.5.1
+    subdir: dating_app
+    output: build/app/outputs/flutter-apk/app-release.apk
+    srclibs:
+      - flutter@3.16.9
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.5.1
+CurrentVersionCode: 118 
