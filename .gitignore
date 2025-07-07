@@ -1,0 +1,49 @@
+# =============================================================================
+# F-DROID REPOSITORY SECURITY - GITGUARDIAN PROTECTION
+# =============================================================================
+
+# Keystore files (contain private keys for repository signing)
+*.p12
+*.jks
+*.keystore
+keystore.p12
+keystore.jks
+release.keystore
+debug.keystore
+
+# Certificate files
+*.crt
+*.cert
+*.pem
+*.der
+
+# Private key files
+*.key
+*.p8
+*.mobileprovision
+*.provisionprofile
+
+# F-Droid specific sensitive files
+fdroid/keystore.p12
+fdroid/keystore.jks
+fdroid/release.keystore
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# OS generated files
+.DS_Store
+Thumbs.db 
