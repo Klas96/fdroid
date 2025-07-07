@@ -171,7 +171,7 @@
     "versionName": "9839e57",
     "packageName": "9839e574894bd34b684f742a68195c804784de8bec6e1f5652d332074d11ad78",
     "size": 885,
-    "added": 1751896641.009293
+    "added": 1751922030.88491
   },
   "com.keymatch.app_112.apk": {
     "hash": "6e67c00faa058666adfc98795f767d3d2dc5e8d5cf06bfeb9cf6864f3764cb09",
@@ -1692,5 +1692,85 @@
     "size": 26352213,
     "apkName": "com.keymatch.app_152.apk",
     "added": 1751896641.008331
+  },
+  "com.keymatch.app_154.apk": {
+    "hash": "71e4d5d09901f60de025f83a277f3b72d024908bde03a7e88b2a239ab1b58193",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_IMAGES",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_VIDEO",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "com.keymatch.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.keymatch.app",
+    "versionCode": 154,
+    "name": "KeyMatch",
+    "versionName": "134.5.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "0f05b52ee310980ecba678b5834d87b4",
+    "signer": "e76bc898cd41d6b7830a781038135b37386e953f4e6a5a86586e59015a4942f8",
+    "size": 26353632,
+    "apkName": "com.keymatch.app_154.apk",
+    "added": 1751922030.884182
   }
 }
