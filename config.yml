@@ -50,13 +50,13 @@ sdk_path: $ANDROID_HOME
 
 # Canonical URL of the repositoy, needs to end in /repo. Is is used to identity
 # the repo in the client, as well.
-repo_url: https://klas96.github.io/keymatch-fdroid/repo
+repo_url: https://klas96.github.io/fdroid/repo
 #
 # Base URL for per-package pages on the website of this repo,
 # i.e. https://f-droid.org/packages/<appid>/ This should be accessible
 # with a browser. Setting it to null or not setting this disables the
 # feature.
-repo_web_base_url: https://klas96.github.io/keymatch-fdroid/packages/
+repo_web_base_url: https://klas96.github.io/fdroid/packages/
 #
 repo_name: KeyMatch F-Droid Repository
 repo_description: >-
