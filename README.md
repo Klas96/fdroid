@@ -23,8 +23,8 @@ KeyMatch is a match making app focused on connections through intelligent matchi
 
 ## 🔗 Repository Information
 
-- **Repository URL**: `https://klas96.github.io/keymatch-fdroid/fdroid/repo`
-- **Latest Version**: 1.1.0 (110)
+- **Repository URL**: `https://klas96.github.io/keymatch-fdroid/repo`
+- **Latest Version**: 134.3.24 (162)
 - **License**: MIT
 - **Source Code**: https://github.com/Klas96/key-match
 - **Website**: https://keymatch.app
@@ -35,14 +35,14 @@ KeyMatch is a match making app focused on connections through intelligent matchi
 1. Open **F-Droid** on your device
 2. Go to **Settings** → **Repositories**
 3. Tap the **+** button to add a new repository
-4. Enter the repository URL: `https://klas96.github.io/keymatch-fdroid/fdroid/repo`
+4. Enter the repository URL: `https://klas96.github.io/keymatch-fdroid/repo`
 5. Tap **Add**
 6. Go back to the main screen and search for "KeyMatch"
 7. Install the app
 
 ### Method 2: Direct APK Download
 You can also download the APK directly:
-- **Latest Version**: [com.keymatch.app_110.apk](https://klas96.github.io/keymatch-fdroid/fdroid/repo/com.keymatch.app_110.apk)
+- **Latest Version**: [com.keymatch.app_162.apk](https://klas96.github.io/keymatch-fdroid/repo/com.keymatch.app_162.apk)
 
 ## 🔄 Updates
 
