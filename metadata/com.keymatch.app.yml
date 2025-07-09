@@ -40,9 +40,9 @@ RepoType: git
 Repo: https://github.com/Klas96/key-match.git
 
 Builds:
-  - versionName: '134.3.18'
-    versionCode: 156
-    commit: v134.3.18
+  - versionName: '134.3.23'
+    versionCode: 161
+    commit: v134.3.23
     subdir: dating_app
     output: build/app/outputs/flutter-apk/app-release.apk
     srclibs:
@@ -50,5 +50,5 @@ Builds:
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: 134.3.18
-CurrentVersionCode: 156
+CurrentVersion: 134.3.23
+CurrentVersionCode: 161
