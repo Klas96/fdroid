@@ -1,4 +1,4 @@
-# KeyMatch F-Droid Repository
+# F-Droid Repository
 
 This is the official F-Droid repository for **KeyMatch** - a match making app for connections through intelligent matching and detailed profiles.
 

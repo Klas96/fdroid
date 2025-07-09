@@ -58,7 +58,7 @@ repo_url: https://klas96.github.io/fdroid/repo
 # feature.
 repo_web_base_url: https://klas96.github.io/fdroid/packages/
 #
-repo_name: KeyMatch F-Droid Repository
+repo_name: F-Droid Repository
 repo_description: >-
   This is the official F-Droid repository for KeyMatch dating app. KeyMatch
   is focused on meaningful connections through intelligent matching and
