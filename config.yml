@@ -60,10 +60,10 @@ repo_web_base_url: https://klas96.github.io/fdroid/packages/
 #
 repo_name: F-Droid Repository
 repo_description: >-
-  This is the official F-Droid repository for KeyMatch dating app. KeyMatch
-  is focused on meaningful connections through intelligent matching and
-  detailed profiles. Features include profile creation, real-time messaging,
-  location-based matching, and premium features.
+  This is the official F-Droid repository for KeyMatch and ContentCreator apps.
+  KeyMatch is a dating app focused on meaningful connections through intelligent
+  matching and detailed profiles. ContentCreator is a powerful app for creating,
+  editing, and managing digital content with AI-powered features.
 
 # As above, but for the archive repo.
 #
