@@ -2,7 +2,7 @@
   "METADATA_VERSION": 20002,
   "allow_disabled_algorithms": false,
   "com.contentcreator.app_24.apk": {
-    "hash": "4b8cfffdd8f80a9e10d44c1d515decab7a5b9402456d6a595f482856173779c2",
+    "hash": "511ddb9612f3098bc3f5e1818def6287f89754ab70a3809f2d6e076310676f60",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -66,7 +66,7 @@
     "packageName": "com.contentcreator.app",
     "versionCode": 24,
     "name": "ContentCreator",
-    "versionName": "",
+    "versionName": "1.0.24",
     "minSdkVersion": 21,
     "targetSdkVersion": 34,
     "nativecode": [
@@ -77,9 +77,9 @@
     ],
     "sig": "3ecfccee7661797551663fe8dad08c1b",
     "signer": "d9cb0755a6f6cfe242ef4a9007b2bc1ebb19110b859963346dead831fb46d0d8",
-    "size": 15668585,
+    "size": 30634231,
     "apkName": "com.contentcreator.app_24.apk",
-    "added": 1752158599.198272
+    "added": 1752158599.0
   },
   "com.keymatch.app_180.apk": {
     "hash": "b6cda2ec63ac0d673868565c343fdb19ba2b490e8ee0500f167f44e4072ff4cc",
