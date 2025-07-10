@@ -1,46 +1,54 @@
 Categories:
   - Dating
-  - Internet
   - Social
+  - Internet
+
 License: MIT
+
 WebSite: https://keymatch.app
+
 SourceCode: https://github.com/Klas96/key-match
+
 IssueTracker: https://github.com/Klas96/key-match/issues
-Changelog: https://github.com/Klas96/key-match/releases
+
 Donate: https://liberapay.com/keymatch
 
+Changelog: https://github.com/Klas96/key-match/releases
+
 AutoName: KeyMatch
+
 Description: |
   KeyMatch is a dating app focused on meaningful connections through intelligent matching and detailed profiles.
-
+  
   Features:
   • Create detailed profiles with multiple photos
   • Intelligent matching algorithm
   • Real-time messaging
   • Location-based matching
   • Premium features for enhanced experience
-
+  
   Premium Features (available through Stripe or Bitcoin payments):
   • Unlimited likes
   • Advanced filters
   • Priority support
   • Profile boost
-
+  
   Privacy-focused with no tracking or data selling.
 
 RepoType: git
+
 Repo: https://github.com/Klas96/key-match.git
 
 Builds:
-  - versionName: 134.5.3
-    versionCode: 174
-    commit: v134.5.3
+  - versionName: '134.5.9'
+    versionCode: 180
+    commit: v134.5.9
     subdir: dating_app
     output: build/app/outputs/flutter-apk/app-release.apk
     srclibs:
       - flutter@3.16.9
 
-AutoUpdateMode: None
-CurrentVersion: 134.5.3
-CurrentVersionCode: 174
-# Note: KeyMatch is deprecated and no longer maintained. Please use ContentCreator instead.
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 134.5.9
+CurrentVersionCode: 180
