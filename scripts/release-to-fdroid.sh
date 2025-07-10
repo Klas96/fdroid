@@ -24,7 +24,8 @@ CYAN='\033[0;36m'
 NC='\033[0m' # No Color
 
 # Configuration
-PROJECT_ROOT="$(pwd)"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+PROJECT_ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"
 CONTENT_CREATOR_DIR="$PROJECT_ROOT/content-creator-app"
 FLUTTER_APP_DIR="$CONTENT_CREATOR_DIR/flutter-app"
 FDROID_DIR="$PROJECT_ROOT/fdroid"
