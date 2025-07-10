@@ -1,8 +1,8 @@
 {
   "METADATA_VERSION": 20002,
   "allow_disabled_algorithms": false,
-  "com.contentcreator.app_20.apk": {
-    "hash": "2bf8451b1cdb310795743c1360d45698222356f54c506272dd8321a9210653b2",
+  "com.contentcreator.app_22.apk": {
+    "hash": "907a4966d5da237c46b90a9de73abcba22a2da16442e3c58f4587f91ad0c5893",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -64,7 +64,7 @@
     "icons": {},
     "antiFeatures": {},
     "packageName": "com.contentcreator.app",
-    "versionCode": 20,
+    "versionCode": 22,
     "name": "ContentCreator",
     "versionName": "",
     "minSdkVersion": 21,
@@ -77,9 +77,9 @@
     ],
     "sig": "3ecfccee7661797551663fe8dad08c1b",
     "signer": "d9cb0755a6f6cfe242ef4a9007b2bc1ebb19110b859963346dead831fb46d0d8",
-    "size": 15801550,
-    "apkName": "com.contentcreator.app_20.apk",
-    "added": 1752156735.899145
+    "size": 15668581,
+    "apkName": "com.contentcreator.app_22.apk",
+    "added": 1752158111.167353
   },
   "com.keymatch.app_180.apk": {
     "hash": "b6cda2ec63ac0d673868565c343fdb19ba2b490e8ee0500f167f44e4072ff4cc",
