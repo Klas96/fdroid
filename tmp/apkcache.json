@@ -80,5 +80,181 @@
     "size": 26395066,
     "apkName": "com.keymatch.app_174.apk",
     "added": 1752090217.0
+  },
+  "com.contentcreator.app_118.apk": {
+    "hash": "8bf22f75c2d1c7bacbb5cf1e4db1f200257cd4e70cbf9cf119d6da05679ea17c",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_IMAGES",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_VIDEO",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "com.contentcreator.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.contentcreator.app",
+    "versionCode": 118,
+    "name": "ContentCreator",
+    "versionName": "",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "69c25225a4ce0592875358cb1d882876",
+    "signer": "ed040a6cbec29038df3714058d56d51b10436ee7e443af166898aed4cd5169ba",
+    "size": 15857388,
+    "apkName": "com.contentcreator.app_118.apk",
+    "added": 1752132448.670993
+  },
+  "com.contentcreator.app_119.apk": {
+    "hash": "71a9da0935d5b6832380919b9fa707f995d4171ae8069971d5cc5d918d1363f9",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_IMAGES",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_VIDEO",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "com.contentcreator.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.contentcreator.app",
+    "versionCode": 119,
+    "name": "ContentCreator",
+    "versionName": "1.0.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "69c25225a4ce0592875358cb1d882876",
+    "signer": "ed040a6cbec29038df3714058d56d51b10436ee7e443af166898aed4cd5169ba",
+    "size": 15857409,
+    "apkName": "com.contentcreator.app_119.apk",
+    "added": 1752133048.484608
   }
 }

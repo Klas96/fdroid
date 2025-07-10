@@ -1,0 +1,53 @@
+Categories:
+  - Productivity,Multimedia,Internet
+
+License: MIT
+
+WebSite: https://content-creator.app
+
+SourceCode: https://github.com/Klas96/content-creator
+
+IssueTracker: https://github.com/Klas96/content-creator/issues
+
+Donate: https://liberapay.com/content-creator
+
+Changelog: https://github.com/Klas96/content-creator/releases
+
+AutoName: ContentCreator
+
+Description: |
+  ContentCreator is a powerful app for creating, editing, and managing digital content.
+  
+  Features:
+  • Create and edit various types of content
+  • AI-powered content generation
+  • Multi-format export options
+  • Cloud synchronization
+  • Collaboration tools
+  • Advanced editing capabilities
+  
+  Premium Features (available through in-app purchases):
+  • Advanced AI features
+  • Unlimited exports
+  • Priority support
+  • Premium templates
+  
+  Privacy-focused with secure content handling.
+
+RepoType: git
+
+Repo: https://github.com/Klas96/content-creator.git
+
+Builds:
+  - versionName: '1.0.0'
+    versionCode: 119
+    commit: v1.0.0
+    subdir: content-creator-app/flutter-app
+    output: build/app/outputs/flutter-apk/app-release.apk
+    srclibs:
+      - flutter@3.16.9
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.0.0
+CurrentVersionCode: 119
