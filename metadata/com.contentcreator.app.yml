@@ -39,9 +39,9 @@ RepoType: git
 Repo: https://github.com/Klas96/content-creator.git
 
 Builds:
-  - versionName: '1.0.24'
-    versionCode: 24
-    commit: v1.0.24
+  - versionName: '1.0.1'
+    versionCode: 4
+    commit: v1.0.1
     subdir: content-creator-app/flutter-app
     output: build/app/outputs/flutter-apk/app-release.apk
     srclibs:
@@ -49,5 +49,5 @@ Builds:
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: '1.0.24'
-CurrentVersionCode: 24
+CurrentVersion: '1.0.1'
+CurrentVersionCode: 4
