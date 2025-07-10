@@ -896,5 +896,85 @@
     "size": 15790436,
     "apkName": "com.contentcreator.app_11.apk",
     "added": 1752150425.758703
+  },
+  "com.contentcreator.app_12.apk": {
+    "hash": "5e3925b9b65b3a49d7465e626bf931c45a8cc879d2d0c86a8768df1d980a9de5",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_IMAGES",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_VIDEO",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "com.contentcreator.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.contentcreator.app",
+    "versionCode": 12,
+    "name": "ContentCreator",
+    "versionName": "1.0.3",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "3ecfccee7661797551663fe8dad08c1b",
+    "signer": "d9cb0755a6f6cfe242ef4a9007b2bc1ebb19110b859963346dead831fb46d0d8",
+    "size": 15790441,
+    "apkName": "com.contentcreator.app_12.apk",
+    "added": 1752150661.08183
   }
 }
