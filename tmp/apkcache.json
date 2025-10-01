@@ -240,5 +240,37 @@
     "size": 26416765,
     "apkName": "com.keymatch.app_180.apk",
     "added": 1752152099.007862
+  },
+  "com.tectonic.tectonic_1.apk": {
+    "hash": "1039a6cc69a7f53abde60415357c5a20e7fa9effebd29767fb0da1fbc0bbd6cc",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "com.tectonic.tectonic.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.tectonic.tectonic",
+    "versionCode": 1,
+    "name": "tectonic",
+    "versionName": "1.0.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 35,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2f3d8ff2d8dcd520b86a17c617ce8e1f",
+    "signer": "33c4f6c0605f7689b0b2a5ab0d4c15743cefeee4012fa6349f1bdba47a24bf57",
+    "size": 21050641,
+    "apkName": "com.tectonic.tectonic_1.apk",
+    "added": 1759297456.242947
   }
 }

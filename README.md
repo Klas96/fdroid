@@ -24,7 +24,7 @@ KeyMatch is a match making app focused on connections through intelligent matchi
 ## 🔗 Repository Information
 
 - **Repository URL**: `https://klas96.github.io/fdroid/repo`
-- **Latest Version**: 134.3.24 (162)
+- **Latest Version**: 134.5.3 (180)
 - **License**: MIT
 - **Source Code**: https://github.com/Klas96/key-match
 - **Website**: https://keymatch.app
@@ -42,7 +42,9 @@ KeyMatch is a match making app focused on connections through intelligent matchi
 
 ### Method 2: Direct APK Download
 You can also download the APK directly:
-- **Latest Version**: [com.keymatch.app_162.apk](https://klas96.github.io/fdroid/repo/com.keymatch.app_162.apk)
+- **📥 Download Page**: [Beautiful Download Page](https://klas96.github.io/fdroid/download.html)
+- **Latest Version**: [com.keymatch.app_180.apk](https://klas96.github.io/fdroid/repo/com.keymatch.app_180.apk) (25MB)
+- **Direct Link**: [Direct APK Download](https://klas96.github.io/fdroid/repo/com.keymatch.app_180.apk)
 
 ## 🔄 Updates
 

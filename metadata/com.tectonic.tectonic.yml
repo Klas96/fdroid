@@ -1,0 +1,28 @@
+Categories:
+  - Games
+  - Puzzle
+
+License: MIT
+
+AutoName: Tectonic
+
+Description: |
+  Tectonic is a puzzle game that challenges players to solve geological puzzles.
+  
+  Features:
+  • Engaging puzzle gameplay
+  • Multiple difficulty levels
+  • Clean and intuitive interface
+  • Offline play capability
+  
+  A fun and challenging game for puzzle enthusiasts.
+
+Builds:
+  - versionName: '1.0.0'
+    versionCode: 1
+    subdir: .
+    output: app-release.apk
+
+AutoUpdateMode: None
+CurrentVersion: 1.0.0
+CurrentVersionCode: 1
