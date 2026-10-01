@@ -680,8 +680,7 @@ commit_and_push() {
 show_fingerprint() {
     print_step "Showing keystore fingerprint..."
     
-    # Hardcoded values for easiest route
-    local store_password='6LnBP33wv5vA+AcHOsb6VIjsw13rHvlqlvU/3avhvc8='
+    local store_password="${FDROID_KEYSTORE_PASS:?FDROID_KEYSTORE_PASS is not set (put it in .env or export it)}"
     local key_alias='klas-Modern-14-C7M'
     local store_file='/home/klas/Kod/content-creator/fdroid/keystore.p12'
     
