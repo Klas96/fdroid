@@ -67,6 +67,27 @@ This repository is automatically updated when new versions are released. To get 
 - **Repository Issues**: https://github.com/Klas96/fdroid/issues
 - **Website**: https://keymatch.app
 
+## 🔐 Maintainer notes: signing password
+
+The repo signing keystore (`keystore.p12`, gitignored) is unlocked with a
+password that is **not** stored in `config.yml`. `config.yml` reads it from the
+environment:
+
+```yaml
+keystorepass: {env: FDROID_KEYSTORE_PASS}
+keypass: {env: FDROID_KEYSTORE_PASS}
+```
+
+For local runs, either `export FDROID_KEYSTORE_PASS=...` or put
+`FDROID_KEYSTORE_PASS=...` in a gitignored `.env` file in the repo root;
+`update-fdroid-repo.sh` and `scripts/release-to-fdroid.sh` load `.env`
+automatically (and `update-fdroid-repo.sh` prompts if it is still unset).
+
+Echoes of Elysium is published automatically from the
+`Klas96/echoes-of-elysium` release workflow (GitHub Actions, using a deploy key
+and the `FDROID_KEYSTORE_*` secrets), so always `git pull` before running
+`fdroid update` locally.
+
 ## 📄 License
 
 This repository and the KeyMatch app are licensed under the MIT License.
