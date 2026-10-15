@@ -1,6 +1,14 @@
 # F-Droid Repository
 
-This is the official F-Droid repository for **KeyMatch** - a match making app for connections through intelligent matching and detailed profiles.
+Custom F-Droid repository for Klas Holmgren’s Android apps (KeyMatch, mooves,
+NumBlocks, Echoes of Elysium). Repository URL:
+`https://klas96.github.io/fdroid/repo`.
+
+---
+
+## KeyMatch
+
+KeyMatch is a match making app for connections through intelligent matching and detailed profiles.
 
 ## 📱 About KeyMatch
 
