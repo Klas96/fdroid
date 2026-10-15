@@ -1,0 +1,30 @@
+# F-Droid metadata for mooves.
+# The release workflow copies this to metadata/com.mooves.app.yml in
+# Klas96/fdroid the first time the app is published (it never overwrites an
+# existing file there, so later edits should be made in Klas96/fdroid).
+Categories:
+  - Sports & Health
+  - Multimedia
+
+AuthorName: Klas Holmgren
+
+SourceCode: https://github.com/Klas96/mooves-app
+IssueTracker: https://github.com/Klas96/mooves-app/issues
+Changelog: https://github.com/Klas96/mooves-app/releases
+WebSite: https://mooves.klasholmgren.se/
+
+Name: mooves
+Summary: Record yourself dancing and see how on-beat your moves are.
+
+Description: |
+  mooves records you dancing, then analyzes how tightly your movement
+  lines up with the music — entirely on your device.
+
+  Pose tracking and beat detection run locally. Your video never leaves
+  the phone. No account, no ads, no analytics SDK.
+
+  Grant camera and microphone access when you want to capture a take,
+  or pick an existing video from your library.
+
+AutoUpdateMode: None
+UpdateCheckMode: None
