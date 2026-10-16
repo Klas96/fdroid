@@ -7,13 +7,13 @@ License: MIT
 
 WebSite: https://keymatch.app
 
-SourceCode: https://github.com/Klas96/key-match
+SourceCode: https://github.com/Klas96/KeyMatch-App
 
-IssueTracker: https://github.com/Klas96/key-match/issues
+IssueTracker: https://github.com/Klas96/KeyMatch-App/issues
 
 Donate: https://liberapay.com/keymatch
 
-Changelog: https://github.com/Klas96/key-match/releases
+Changelog: https://github.com/Klas96/KeyMatch-App/releases
 
 Name: KeyMatch
 AutoName: KeyMatch
@@ -28,17 +28,14 @@ Description: |
   • Location-based matching
   • Premium features for enhanced experience
   
-  Premium Features (available through Stripe or Bitcoin payments):
-  • Unlimited likes
-  • Advanced filters
-  • Priority support
-  • Profile boost
+  Premium purchases and premium unlocks are not available in this build.
+  Firebase and Google Sign-In stay included.
   
   Privacy-focused with no tracking or data selling.
 
 RepoType: git
 
-Repo: https://github.com/Klas96/key-match.git
+Repo: https://github.com/Klas96/KeyMatch-App.git
 
 Builds:
   - versionName: '134.5.9'
@@ -48,8 +45,15 @@ Builds:
     output: build/app/outputs/flutter-apk/app-release.apk
     srclibs:
       - flutter@3.16.9
+  - versionName: '134.10.26'
+    versionCode: 276
+    commit: e671ff6
+    subdir: .
+    output: build/app/outputs/flutter-apk/app-fdroid-release.apk
+    srclibs:
+      - flutter@3.47.7
 
-AutoUpdateMode: Version
-UpdateCheckMode: Tags
-CurrentVersion: 134.5.9
-CurrentVersionCode: 180
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersion: 134.10.26
+CurrentVersionCode: 276
