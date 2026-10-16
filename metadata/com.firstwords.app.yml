@@ -1,0 +1,30 @@
+# F-Droid metadata for First Words.
+# Source app lives in Klas96/languagegame (Flutter tree at repo root).
+# The release workflow may seed this file the first time if missing; later
+# edits should be made here in Klas96/fdroid (it never overwrites an existing file).
+Categories:
+  - Games
+  - Science & Education
+
+AuthorName: Klas Holmgren
+
+SourceCode: https://github.com/Klas96/languagegame
+IssueTracker: https://github.com/Klas96/languagegame/issues
+Changelog: https://github.com/Klas96/languagegame/releases
+
+Name: First Words
+Summary: Learn words with interactive flash cards — images, sounds, and text for kids.
+
+Description: |
+  First Words helps young learners pick up new words with interactive flash
+  cards that combine text, images, and sounds.
+
+  Create custom cards: add text, pick or take photos, record or choose audio.
+  Browse a kid-friendly grid, swipe full-screen, and play each card's sound.
+  Everything stays on the device — no account, no tracking, and core learning
+  works offline.
+
+  Free version includes a card limit; a one-time premium unlock removes it.
+
+AutoUpdateMode: None
+UpdateCheckMode: None
