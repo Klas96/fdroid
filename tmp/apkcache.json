@@ -161,18 +161,6 @@
     "apkName": "com.keymatch.app_180.apk",
     "added": 1752152099.0
   },
-  "icon.png": {
-    "name": "icon",
-    "apkName": "icon.png",
-    "hash": "9deaf458823a105e790c34aade49ffcabaaec000a2da43633be5c5b6a7cb205a",
-    "hashType": "sha256",
-    "ipfsCIDv1": null,
-    "versionCode": 0,
-    "versionName": "9deaf45",
-    "packageName": "9deaf458823a105e790c34aade49ffcabaaec000a2da43633be5c5b6a7cb205a",
-    "size": 710,
-    "added": 1752155663.0
-  },
   "com.contentcreator.app_11.apk": {
     "hash": "2e9dc5ff986e958e3351c73e75665277d0ec910cb8c3ffa688ad3ac15e0b1efb",
     "hashType": "sha256",
