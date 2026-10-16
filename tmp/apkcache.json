@@ -1343,5 +1343,73 @@
     "size": 66300690,
     "apkName": "com.keymatch.app_276.apk",
     "added": 1792149367.933934
+  },
+  "com.firstwords.app_10003.apk": {
+    "hash": "014d1fe7e091affa37f3980cfd88f0a248d815ef6635245a8aee26be096df025",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_IMAGES",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_AUDIO",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "com.firstwords.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.firstwords.app",
+    "versionCode": 10003,
+    "name": "First Words",
+    "versionName": "1.0.3",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 35,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "e746778f6f80ff9d2ecd5d05b27b5373",
+    "signer": "4e369226be00a9d6660f93e4fdb256bd64e346dc84183b9e86d8ac19926972ae",
+    "size": 58879780,
+    "apkName": "com.firstwords.app_10003.apk",
+    "added": 1792151873.476081
   }
 }
