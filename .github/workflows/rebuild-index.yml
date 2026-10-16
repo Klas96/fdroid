@@ -68,6 +68,10 @@ jobs:
           apps = {a.get('packageName'): a for a in d['apps']}
           assert 'com.contentcreator.app' not in apps, 'ContentCreator still in unsigned index'
           assert 'com.contentcreator.app' not in d['packages']
+          # Repo icon.png was once mis-indexed as a fake "icon" package (sha256 id).
+          fake_icon = '9deaf458823a105e790c34aade49ffcabaaec000a2da43633be5c5b6a7cb205a'
+          assert fake_icon not in apps and fake_icon not in d['packages'], 'repo icon.png still listed as an app'
+          assert not any((a.get('name') or '').lower() == 'icon' for a in d['apps']), 'app named icon still listed'
           tec = apps.get('com.tectonic.tectonic') or {}
           name = tec.get('name') or (tec.get('localized') or {}).get('en-US', {}).get('name')
           assert name == 'NumBlocks', f'tectonic name={name!r}'
@@ -78,6 +82,7 @@ jobs:
           with zipfile.ZipFile('repo/index-v1.jar') as z:
             signed = json.loads(z.read('index-v1.json'))
           assert 'com.contentcreator.app' not in signed['packages'], 'ContentCreator still in signed jar'
+          assert fake_icon not in signed['packages'], 'fake icon package still in signed jar'
           print('OK: signed index has', sorted(signed['packages']))
           PY
 
