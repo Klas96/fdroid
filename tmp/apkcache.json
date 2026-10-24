@@ -1827,5 +1827,37 @@
     "size": 86309351,
     "apkName": "se.klasholmgren.echoesofelysium_400.apk",
     "added": 1792559609.510366
+  },
+  "se.klasholmgren.echoesofelysium_401.apk": {
+    "hash": "6aa97a399e89e478aa27456c22cf60d92183b57b7083ed5927bb90841c6d40bb",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "se.klasholmgren.echoesofelysium.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "se.klasholmgren.echoesofelysium",
+    "versionCode": 401,
+    "name": "Echoes of Elysium",
+    "versionName": "0.4.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 35,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "c85c22e31b895a38b226007a00fd8216",
+    "signer": "13dd71e042038769c5945a0c56fb1e125714f5fdad67522bed7a389fd4e3a773",
+    "size": 86337833,
+    "apkName": "se.klasholmgren.echoesofelysium_401.apk",
+    "added": 1792842697.606989
   }
 }
