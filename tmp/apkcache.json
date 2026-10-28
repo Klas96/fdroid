@@ -2197,5 +2197,48 @@
     "size": 66956078,
     "apkName": "com.keymatch.app_1341027.apk",
     "added": 1793167561.978887
+  },
+  "com.tectonic.tectonic_10114.apk": {
+    "hash": "61a02291c088a2523f64ff40075ccf2f8e3689ffe021a6319d0b0ca5e7a43ee3",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "com.tectonic.tectonic.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.tectonic.tectonic",
+    "versionCode": 10114,
+    "name": "NumBlocks",
+    "versionName": "1.1.14",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86_64"
+    ],
+    "sig": "1d3258d9b64eebd8680e63bd0719b9c1",
+    "signer": "cddd0da28194878d0a5d0771009620acb0a78533075b11c268706b3553e49f6e",
+    "size": 51715598,
+    "apkName": "com.tectonic.tectonic_10114.apk",
+    "added": 1793170629.550893
   }
 }
