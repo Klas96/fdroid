@@ -2039,5 +2039,76 @@
     "size": 48880326,
     "apkName": "com.tectonic.tectonic_10113.apk",
     "added": 1793167237.186164
+  },
+  "com.mooves.app_241.apk": {
+    "hash": "4399d8a78dd6d64987d15e64c779613f4b8dba65e81b3a4946dc0d7af6b08977",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.ACCESS_MEDIA_LOCATION",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        28
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.mooves.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "android.hardware.camera.any"
+    ],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.mooves.app",
+    "versionCode": 241,
+    "name": "mooves",
+    "versionName": "135.0.6",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "a56b5b6bf2e1353208c76f4f459de726",
+    "signer": "e3004adcebb7b81a30cff875e4c0e64da506fcbb64f321076a46a682b1d5e493",
+    "size": 91953896,
+    "apkName": "com.mooves.app_241.apk",
+    "added": 1793167359.500476
   }
 }
